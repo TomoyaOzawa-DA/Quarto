@@ -1,0 +1,28 @@
+---
+title: "Tomoya Ozawa | 小澤智也"
+image: jpg/profile.jpg
+about:
+  template: jolla
+  image-shape: round
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/TomoyaOzawa-DA
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/tomoya-ozawa-da/
+---
+
+
+
+## Education
+
+Monash University, Australia \| Master of Applied Econometrics \| Jul. 2021 - Present (June 2023)
+
+Keio University, Japan \| B.A in Business and Commerce \| Apr. 2017 - Mar. 2021
+
+## Experience
+
+UTokyo Economic Consulting lnc. \| Intern Analyst \| Nov. 2020 - Present
+
+Datact Japan \| Data Analyst \| Oct. 2018 - Present
