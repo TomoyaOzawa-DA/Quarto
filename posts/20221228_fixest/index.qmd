@@ -1,0 +1,11 @@
+---
+title: "`fixest` might be the most useful package in R"
+author: "Tomoya Ozawa"
+date: "2022-12-28"
+categories: [R, Econometrics]
+---
+
+
+Details: [link](https://cran.r-project.org/web/packages/fixest/vignettes/fixest_walkthrough.html)
+
+![](git.jpeg)
